@@ -1,10 +1,11 @@
 Quick React starter app
 
+![React](public/react.png)
 
 ##Dependency list
 
 ```bash
-npm i react react-dom
+npm i -S react react-dom
 
 ```
 make sure you have `webpack` installed locally or globally
@@ -19,7 +20,7 @@ Starting it
 ```bash
 webpack -w
 ```
-open another tab: 
+open another tab:
 ```bash
 open public/index.html
 ```

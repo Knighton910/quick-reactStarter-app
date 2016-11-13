@@ -1,4 +1,4 @@
-:sunglasses: :smile: :+1: Quick React starter app :fire: 
+:smile: :+1: Quick React starter app :fire: 
 ![React](public/react.png)
 
 ##Dependency list
